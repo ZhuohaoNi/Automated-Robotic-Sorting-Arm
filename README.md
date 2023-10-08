@@ -38,7 +38,7 @@ The project is inspired by the idea of creating an AI assistant akin to Jarvis f
 ![Hardware Block Diagram](Block_diagram/block_diagram_hardware.png)
 
 ## Contributors
-- Peter Ni
+- Zhuohao(Peter) Ni
 - Songli Du
 - Wesley Chow
 - Kevin Li
