@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['LED_red', 'capacitor', 'capacitor_L', 'resistor']
+
+roboflow:
+  workspace: cpen291g8
+  project: own-dataset-o03rf
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/cpen291g8/own-dataset-o03rf/dataset/2
