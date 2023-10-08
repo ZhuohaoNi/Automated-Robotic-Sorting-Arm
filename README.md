@@ -1,5 +1,5 @@
 # Automated Robotic Sorting Arm
-(This project is developed by the team of 4)
+
 
 The Automated Robotic Sorting Arm is designed to detect, classify, and sort different objects based on their shape, size, and color using an AI-powered object detection system. It's controlled through a user-friendly web interface and provides live video feedback for monitoring and troubleshooting.
 
@@ -9,6 +9,7 @@ The Automated Robotic Sorting Arm is designed to detect, classify, and sort diff
 - [Motivation and Objectives](#motivation-and-objectives)
 - [Open-ended Aspects](#open-ended-aspects)
 - [Block Diagram](#block-diagram)
+- [Contributors](#contributors)
 
 ## Features
 - **Object Detection**: Detects and classifies objects based on their shape, size, and color.
@@ -35,3 +36,9 @@ The project is inspired by the idea of creating an AI assistant akin to Jarvis f
 
 ### Hardware
 ![Hardware Block Diagram](Block_diagram/block_diagram_hardware.png)
+
+## Contributors
+- Peter Ni
+- Songli Du
+- Wesley Chow
+- Kevin Li
