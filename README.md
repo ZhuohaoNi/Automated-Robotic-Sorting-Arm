@@ -42,3 +42,5 @@ The project is inspired by the idea of creating an AI assistant akin to Jarvis f
 - Songli Du
 - Wesley Chow
 - Kevin Li
+
+  
